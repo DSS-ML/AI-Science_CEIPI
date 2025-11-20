@@ -13,7 +13,7 @@ The goal of this module is to bridge the gap between technical innovation (Trans
 ## 📂 Repository Contents
 
 ### 1. 📊 Lecture Slides
-* **[Download PDF Slides](./Slides_AI_Science.pdf)**
+* **[Download PDF Slides](./LectureSlide.pdf)**
     * *Key Topics:* From RNNs to Transformers, The "Cost of Prediction", AlphaFold & Scientific Discovery, and the Economic Co-evolution of Skills.
 
 ### 2. 💻 Hands-on Demo (Python)
