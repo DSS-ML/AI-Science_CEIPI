@@ -37,7 +37,3 @@ During the lecture, we use these demos to discuss the following paradoxes:
 3.  **The Accessibility Paradox** *Can open-source models running on a standard laptop (Ollama) really compete with industry giants? Or is the "Democratization of AI" dependent on hardware access?*
 
 ---
-
-## 👩‍🏫 Author
-
-**Diletta Abbonato** *University of Turin* *Materials provided for educational purposes within the CEIPI M2 AIDTIP program.*
