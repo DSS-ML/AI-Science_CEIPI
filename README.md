@@ -16,7 +16,7 @@ The goal of this module is to bridge the gap between technical innovation (Trans
 * **[Download PDF Slides](./LectureSlide.pdf)**
     * *Key Topics:* From RNNs to Transformers, The "Cost of Prediction", AlphaFold & Scientific Discovery, and the Economic Co-evolution of Skills.
 
-### 2. 💻 Hands-on Demo (Python)
+### 2. 💻 Hands-on Demo (Python - ipynb file)
 The provided notebook explores three different paradigms of using Large Language Models (LLMs) in research, addressing **Accessibility**, **Privacy**, and **Scale**.
 
 | Part | Tool | Goal | Key Concept |
